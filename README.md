@@ -62,10 +62,10 @@ The solution consists of a student-friendly map interface where users input thei
 
 ## Trade-offs Considered
 
-|Aspect             |	Trade-off Decision	               | Reasoning                                      |
-|-------------------|--------------------------------------|
-| Privacy vs Convenience |	Pseudonyms instead of real names |	Maintains trust while allowing communication |
-| Accuracy vs Performance |	Adjustable similarity thresholds |	Balances match relevance with computation efficiency |
-| Speed vs Battery Use |	Background updates every 5 minutes |	Ensures freshness without excessive device consumption |
-| Eco-routing vs Fastest Route |	User can choose preference |	Supports sustainability without forcing decisions |
-| Feature complexity vs User adoption |	Start simple, add features progressively |	Prevents overwhelming users while scaling functionality |
+| Aspect                  | Trade-off Decision            | Reasoning                                      |
+|------------------------ |------------------------------ |----------------------------------------------- |
+| Privacy vs Convenience  | Pseudonyms instead of real names | Maintains trust while allowing communication  |
+| Accuracy vs Performance | Adjustable similarity thresholds | Balances match relevance with computation efficiency |
+| Speed vs Battery Use   | Background updates every 5 minutes | Ensures freshness without excessive device consumption |
+| Eco-routing vs Fastest Route | User can choose preference | Supports sustainability without forcing decisions |
+| Feature complexity vs User adoption | Start simple, add features progressively | Prevents overwhelming users while scaling functionality |
