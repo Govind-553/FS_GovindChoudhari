@@ -9,3 +9,15 @@ The solution consists of a student-friendly map interface where users input thei
 
 ## High-level Architecture diagram
 ![alt text](image.png)
+
+## ✅ Tech Stack
+
+- *Frontend:* React.js with Tailwind CSS, OpenStreet Map API for visualization, WebSockets for real-time communication
+
+- *Backend:* Node.js + Express.js, Python (for route optimization algorithms), Redis for caching frequent queries
+
+- *Database:* MongoDB (for storing user data and pseudonyms securely)
+
+- *Third-party APIs:* OpenStreet Map API(free), OpenWeather API, Traffic data providers
+
+- *Authentication:* OAuth with anonymization layers
